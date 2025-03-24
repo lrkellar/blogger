@@ -1,6 +1,6 @@
 import streamlit as st
 import os
-
+st.set_page_config(layout="wide")
 # Folder containing Markdown files
 MARKDOWN_FOLDER = "library"
 
